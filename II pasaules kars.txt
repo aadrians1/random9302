@@ -1,0 +1,490 @@
+let text = `
+
+Ā. Hitlers kāpināja bruņošanās tempus un izvērsa asu cīņu pret noteikumiem, kurus ietvēra - Versaļas līgums
+
+Itālija vēlējās Vidusjūru pārvērst par - itāliešu ezeru
+
+Otrā pasaules kara cēloņi ir meklējami I pasaules kara izveidotajā - Versaļas sistēmā
+
+Par II pasaules kara līdzizraisītāju kļuva - PSRS
+
+Viens no nacistu mērķiem bija „dzīves telpas” iekarošana - Austrumos
+
+Japāna vēlējās kļūt par valdošo lielvalsti - Āzijā
+
+PSRS 1939. gada 23. augustā noslēdza Molotova-Rībentropa paktu ar - Vāciju
+
+Otrā pasaules kara sagatavošanā un izraisīšanā izšķiroša nozīme bija - Vācijai
+
+Itālija vēlējās Vidusjūru pārvērst par - itāliešu ezeru
+
+Molotova-Rībentropa pakta rezultātā Vācijai tika dota iespēja uzsākt karu pret - Poliju
+
+II pasaules karš tiek raksturots kā „Hitlera karš”, „Staļina karš” vai - Rūzvelta karš
+
+II pasaules karš tiek raksturots kā „Hitlera karš”, „Rūzvelta karš” vai - Staļina karš
+
+Briti attiecībā uz Vāciju īstenoja - nomierināšanas politiku
+
+J. Staļina stratēģija paredzēja izprovocēt karu starp Vāciju un - Rietumiem
+
+"Nomierināšanas politiku" īstenoja - Lielbritānija
+
+30. gados strauji nostiprinājās Vācija, Padomju Savienība un - Japāna
+
+Iekarot "dzīves telpu" Austrumos vēlējās - nacisti
+
+
+
+Otrais pasaules karš bija lielākais bruņotais konflikts cilvēces vēsturē, kurš notika starp - Ass valstīm un Sabiedrotajiem
+
+II pasaules karš sākās ar Vācijas uzbrukumu - Polijai
+
+Otrais pasaules karš ilga no - 1939. gada līdz 1945. gadam
+
+II pasaules karš beidzās ar - Japānas kapitulāciju
+
+II pasaules karš ilga 6 gadus. - jā
+
+Pēc II pasaules kara starptautiskajās attiecības sāka dominēt - ASV un PSRS.
+
+II pasaules karš paņēma aptuveni 65 milj. cilvēku dzīvības. - jā
+
+ 
+
+II pasaules karš sākās ar Vācijas uzbrukumu - Polijai
+
+II pasaules karā spēcīgāko nometni veidoja PSRS, Lielbritānija un ASV
+
+Jauna situācija Eiropā iezīmējās pēc 1940.g. maija, kad par Lielbritānijas premjerministru kļuva nacistu politikas pretinieks - V. Čērčils
+
+1940. gada 27. septembrī Vācija noslēdza paktu (Berlīnes paktu) ar Japānu un Itāliju
+
+Daži vēsturnieki par II pasaules kara sākumu uzskata Japānas uzbrukumu - ASV
+
+Izšķirīgi notikumi II pasaules kara laikā risinājās 1941.gadā, kad notika Vācijas uzbrukums - PSRS
+
+Līdz 1940. g. pavasarim ne Lielbritānija, ne Francija faktiski nekaroja ar Vāciju. Izveidojušos situāciju dēvēja par - savādo karu
+
+"Savādais karš" norisinājās starp Rietumu lielvalstīm un Vāciju
+
+II pasaules karš nebija tik pēkšņa eksplozija kā - I pasaules karš
+
+Jau 1939. gada 3. septembrī Vācijai karu pieteica Lielbritānija un Francija
+
+Vēsturnieki, kuri abus pasaules karus uzskata par vienotu procesu, II pasaules karu uzskata par otro - Trīsdesmitgadu karu
+
+
+
+Joprojām notiek strīdi par to, kas bija patiesais agresors padomju – vācu karā – Hitlers vai J. Staļins
+
+1941. gadā tika izdota „komisāru pavēle”.
+
+Lielākā daļa vēsturnieku noraida tēzi par preventīvu karu.
+
+1942. gadā II pasaules karš pārvērtās par - totālo karu
+
+Kopš Vācijas uzbrukuma PSRS II pasaules karš kļuva par iznīcības karu pret slāviem un - ebrejiem
+
+Preventīvā kara idejas piekritēji apgalvo, ka daudzi fakti liecināja par PSRS agresīvajiem nodomiem pret Vāciju.
+
+Militārajā aspektā karam Eiropā līdz 1941.g. decembrim bija raksturīga Vācijas - „zibenskara” stratēģija
+
+Nacisti kara laikā plānoja iznīcināt boļševismu. - jā
+
+
+II pasaules karš sākās 1939. gadā
+
+"Ziemas karš" norisinājās starp PSRS un Somiju.
+
+1939. gada 1. septembrī Polijā iebruka Vācija, savukārt 17. septembrī PSRS
+
+1941. gada 22. jūnijs Vācija uzbruka Padomju Savienībai, sākas Vācijas un PSRS karš, ko Krievijā sauc par Lielo Tēvijas karu
+
+No 1939. gada 30. novembra līdz 1940. gada 12. martam notika padomju – somu karš jeb „Ziemas karš”.
+
+"Ziemas karš" norisinājās starp PSRS un Somiju
+
+II pasaules kara beigu posms (1944.g. janvāris – 1945. septembris) noslēdzās ar Vācijas un Japānas kapitulāciju
+
+
+
+Vācu karaspēks iebruka Polijā - 1939. gadā
+
+1939. gadā sākās vāciešu atgriešanās - reihā
+
+1939. gada 31. augustā tika inscenēts poļu uzbrukums - Gleivicas raidstacijai
+
+Nacistiskās Vācijas bruņotie spēki - vērmahts
+
+1939. gada 17. septembrī Austrumpolijā iebruka - PSRS
+
+1939. gada 1. septembra rītā Polijā iebruka - vācu karaspēks
+
+Polijas sakāvei un Austrumeiropas sadalīšanai sekoja - iedzīvotāju pārvietošana
+
+1939. gada 31. augustā tika inscenēts uzbrukums Gleivicas raidstacijai, ko it kā veikuši - poļi
+
+1939. gada 28. septembrī līgums „Par draudzību un robežu” tika parakstīts starp Vāciju un PSRS
+
+1939. gada 28. septembrī starp Vāciju un PSRS tika parakstīts līgums „Par draudzību un robežu”.
+
+Sagraut Poliju Vācijai palīdzēja - PSRS
+
+1939. gada 1. septembra rītā vācu karaspēks iebruka - Polijā
+
+
+
+Padomju specdienesti 1939. gada 26. novembrī inscenēja robežkonfliktu pie - Manilas ciema
+
+Pēc zaudējuma Ziemas karā Somija sāka tuvināties - Vācijai
+
+Pēc Polijas sagrāves Padomju Savienība plānoja izrēķināties ar - Somiju
+
+1940 gada martā tika parakstīts miera līgums starp Somiju un PSRS, kas noslēdza 105 dienas ilgušo - Ziemas karu
+
+Ziemas karš sākās - 1939. gadā
+
+Ziemas karš beidzās - 1940. gadā
+
+Karēlijas zemes šaurumā atradās - Mannerheima līnija
+
+Pēc Polijas sagrāves PSRS plānoja uzbrukumu Somijai, jo tā nepiekrita Kremļa priekšlikumam iznomāt - Hanko pussalu
+
+1939. gada 1. decembrī Somijas atstātā pierobežas ciemā Terijokos tika sastādīta marionešu valdība, kuras priekšgalā atradās - Oto Kūsinens
+
+1939. gada 1. decembrī Somijas atstātā pierobežas ciemā Terijokos tika sastādīta - marionešu valdība
+
+Ziemas kara rezultātā Somijai vajadzēja uz 30 gadiem iznomāt PSRS - Hanko pussalu
+
+Robežkonflikta izraisīšanā pie Manilas ciema Karēlijas zemes šaurumā PSRS vainoja - Somiju
+
+Padomju Savienība pret Somiju plānoja - zibenskaru
+
+1939. gada 30. novembrī Somijai uzbruka - PSRS
+
+Pēc Polijas sagrāves PSRS plānoja uzbrukumu Somijai, jo tā 1939. gada oktobrī bija atteikusies ar PSRS slēgt - savstarpējās palīdzības līgumu
+
+PSRS 1939. gada 30. novembrī pārtrauca diplomātiskās attiecības ar Somiju un uzbruka tai. Šis Otrā pasaules kara notikums vēsturē ieguvis nosaukumu - Ziemas karš
+
+Padomju specdienesti 1939. gada 26. novembrī inscenēja robežkonfliktu pie - Manilas ciema
+
+
+
+1940. gada aprīlī Vācija uzsāka militāro operāciju - Vēzeres mācības
+
+Hitlers baidījās, ka Skandināvijā varētu nostiprināties briti un franči.
+
+"Vēzeres mācības" bija militārās kampaņas plāns.
+
+Vācijas karaspēks 1940. gada 9. aprīlī iebruka neitrālajā - Dānijā un Norvēģijā
+
+Vīdkuns Kvislings bija norvēģu fašistu līderis.
+
+Sakarā ar Padomju Savienības un Somijas konfliktu karojošo valstu uzmanība tika pievērsta - Ziemeļeiropai
+
+Militārās kampaņas plānu "Vēzeres mācības" veica - Vācija
+
+
+
+Benilukss apvieno trīs kaimiņu monarhijas: Beļģiju, Nīderlandi un Luksemburgu
+
+1940. gada maijā militāro kampaņu pret Franciju, Nīderlandi, Beļģiju un Luksemburgu uzsāka - Vācija
+
+1940. gada 5. jūnijā sākās Rietumu kampaņas otrā fāze - Sarkanais plāns
+
+1940. gadā Vācijai izdevās realizēt pret Franciju operāciju - Sirpja grieziens
+
+1940. gada 22. jūnijā Kompjeņas mežā franču maršala Ferdinanda Foša vecajā štāba vagoniņā tika parakstīts pamiers starp Franciju un Vāciju
+
+Saskaņā ar 1940. gada 22. jūnijā noslēgto pamieru starp Vāciju un Franciju Elzasa un Lotringa tika pievienota - Vācijai
+
+Pamiers starp Vāciju un Franciju 1940. gada 22. jūnijā tika parakstīts - Kompjeņas mežā
+
+Kad 1940. gada 20. maijā vācu vienības pie Denkerkas aplenca britu - franču spēkus, briti realizēja operāciju - Dinamo
+
+Ekonomiska savienība, kas apvieno trīs kaimiņu monarhijas: Beļģiju, Nīderlandi un Luksemburgu. - Benilukss
+
+Operāciju "Sirpja grieziens" Vācija realizēja pret - Franciju
+
+Saskaņā ar 1940. gada 22. jūnijā noslēgto pamieru 2/3 Francijas teritorijas okupēja - Vācija
+
+Kad Vācija okupēja 2/3 Francijas teritorijas, Francijas dienviddaļa un franču kolonijas palika A. Petēna pārvaldījumā
+
+
+1940. gadā karadarbību Ziemeļāfrikā izraisīja - Itālija
+
+Grieķija 1940. gadā pieteica Itālijai karu, aicinot palīgā Lielbritāniju.
+
+1940. gada septembrī Itālijas armija no Lībijas iebruka - Ēģiptē
+
+Nesaskaņojot savus plānus ar Vāciju, B. Musolīni 1940. gada 28. oktobrī pavēlēja Itālijas armijai iebrukt Grieķijā.
+
+Ziemeļāfrika kļuva par pirmo lielāko cīņas arēnu starp „ass” valstīm un Lielbritāniju
+
+Ervīns Rommels bija vācu ģenerālis, dēvēts par "Tuksneša Lapsu".
+
+
+
+Vācijas un PSRS karš sākās - 1941. gadā
+
+Ar militārās kampaņas plānu „Barbarosa” vērmahts plānoja ātri sagraut Sarkano armiju
+
+1941. gada 22. jūnijā sākās - Vācijas un PSRS karš
+
+1941.gada 8.septembrī sākās Ļeņingradas blokāde.
+
+"Ļeņingradas blokādes" laikā pilsētu ielenca vācu karaspēks.
+
+"Barbarosa" bija vācu uzbrukuma plāns PSRS
+
+Vācu plānu uzbrukumam PSRS 1941. gada 22. jūnijā sauca „Barbarosa”
+
+
+
+1943. gadā II pasaules kara kaujās iesaistījās arī - Austrālija
+
+1943. gada 25. jūlijā Itālijas karalis Viktors Emanuels III Itālijas Ministru prezidenta amatā iecēla - P. Badoljo
+
+Staļingradas kaujā PSRS cīnījās pret - Vācijas spēkiem
+
+Staļingradas kaujā Vācija un tā sabiedrotie cīnījās pret - PSRS
+
+1941. gada jūlijā, pēc tam, kad Japāna okupēja franču Indoķīnu, F. Rūzvelts pavēlēja uzlikt arestu ASV teritorijā esošajiem - Japānas īpašumiem
+
+Japānas militārās operācijas vadīja admirālis - I. Jamamoto
+
+Jau pirms oficiālās iesaistīšanās II pasaules karā ASV neievēroja neitralitāti un atbalstīja - Lielbritāniju
+
+Japānas flote un aviācija uzbruka ASV jūras karabāzei Pērlhārborai Havaju salās - 1941. gadā
+
+1943. gada jūlijā ASV un britu armijas izcēlās Itālijai piederošajā - Sicīlijas salā
+
+1941. gada jūlijā, pēc tam, kad Japāna okupēja franču Indoķīnu, F. Rūzvelts noteica aizliegumu pārdot Japānai - naftu
+
+Par pavērsienu padomju – vācu karā kļuva - Staļingradas kauja
+
+Pēc uzbrukuma ASV jūras karabāzei Pērlhārborai Havaju salās ASV atteicās no tradicionālās izolacionisma politikas un pieteica karu - Japānai
+
+1941. gada decembrī Japānas flote un aviācija deva pēkšņu triecienu ASV jūras karabāzei - Pērlhārborai
+
+Pēc Staļingradas kaujas apdraudēta bija nevis Padomju Savienība, bet gan - Vācijas
+
+1943. gada 25. jūlijā Itālijas karalis Viktors Emanuels III no Itālijas Ministru prezidenta amata atcēla - B. Musolīni
+
+1942. gada maijā E. Rommela karaspēka daļas ielauzās - Ēģiptē
+
+
+
+1945. gada februārī no austrumiem Vācijā ielauzās Sarkanā armija, bet no rietumiem - Sabiedroto spēki
+
+1945. gada februārī no rietumiem Vācijā ielauzās Sabiedroto spēki, bet no austrumiem – Sarkanā armija
+
+ASV 6. augustā nometa atombumbu uz Hirosimu, bet 9. augustā – uz Nagasaki
+
+1944. gadā no kara izstājās 3 Vācijas sabiedrotās – Rumānija, Bulgārija un Somija
+
+ASV 6. augustā nometa atombumbu uz - Hirosimu
+
+ASV 6. augustā nometa atombumbu uz Hirosimu, bet 9. augustā – uz Nagasaki
+
+Par „bumbu kara” barbarisma simbolu kļuvusi - Drēzdene
+
+Pēc Ā. Hitlera pašnāvības varu Vācijā pārņēma valdība, kuru vadīja lieladmirālis - K. Dēnics
+
+1945. gada februārī sākās sabiedroto kopējs uzbrukums - Vācijai
+
+1945. gada 14. augustā par kapitulāciju paziņoja - Japāna
+
+1944. gada 6. jūnijā, šķērsojot Lamanša šaurumu, ap 30 000 lidmašīnu un 5000 kuģu ar vairāk nekā 15 000 amerikāņu, britu un kanādiešu tuvojās - Normandijas piekrastei
+
+Japāna kapitulēja - 1945. gadā
+
+1945. gada augustā pirmo reizi cilvēces vēsturē tika izmantoti - kodolieroči
+
+Otrā fronte tika atklāta - 1944. gadā
+
+1945. gada augustā pirmo reizi cilvēces vēsturē tika izmantoti - kodolieroči
+
+
+
+1941. gada augustā ASV un Lielbritānija parakstīja Atlantijas hartu. Vēlāk to parakstīja arī - PSRS
+
+Jaltas konference notika (gads) - 1945. gadā
+
+Lendlīzes likums 1941.gada 11. martā tika pieņemts - ASV
+
+1941. gada decembrī Maskavas sarunās ar britu ārlietu ministru A. Īdenu J. Staļins pieprasīja pēc iespējas ātrāk atklāt - Otro fronti
+
+ASV piegādāja preces ne tikai Lielbritānijai un Ķīnai, bet arī PSRS
+
+Vācu zemūdens flote līdz 1943. gadam nodarīja lielu postu - Sabiedroto flotei
+
+1941. gada augustā tika parakstīta - Atlantijas harta
+
+Jaltas konferencē 1945. gada februārī padomju Krimā tika apspriests - Polijas liktenis
+
+Atlantijas hartu 1941. gada augustā parakstīja ASV un Lielbritānija
+
+Atlantijas harta tika parakstīta tikai - 1941. gadā
+
+Pēc F. Rūzvelta nāves 1945. gada 12. aprīlī par ASV prezidentu kļuva viceprezidents - H. Trumens
+
+1941. gada 11. martā ASV kongress pieņēma likumu par - lendlīzi
+
+1942. gada martā Lielbritānija piekrita atzīt Baltijas valstu piederību pie - PSRS
+
+
+
+Višī režīms izveidojās - Francijā
+
+1940. gada 22. jūnijā tika noslēgts pamiers ar Vāciju. Francija tika sadalīta okupētajā un neokupētajā zonā. Neokupētajā daļā jūnijā tika izveidots - Višī režīms
+
+Ā. Hitlers pasludināja „jaunās kārtības” jeb „Jaunās Eiropas” lozungu jau pirms kara.
+
+Sadarbošanās ar okupācijas režīmu - kolaboracionisms
+
+Vācija izvēlējās atšķirīgas pārvaldes formas okupētajās teritorijās.
+
+Vācijas uzdevums bija arī ekonomikas organizēšana okupētajās teritorijās.
+
+Atšķirīga bija Vācijas attieksme pret dažādu valstu tautām.
+
+Vīdkuna Kvislinga vadītā marionešu valdība izveidojās - Norvēģijā
+
+Katrā no vācu okupētajām valstīm pastāvēja vairākas kolaboracionisma formas.
+
+
+
+Genocīda paveids, kurā mērķtiecīgi un sistemātiski tika iznīcināti ebreji, čigāni un garīgi slimi cilvēki. - holokausts
+
+Kopumā holokaustā gāja bojā gandrīz 6 milj. ebreju no Eiropas un Ziemeļāfrikas
+
+Mērķtiecīga kādas etniskas, reliģiskas utt. grupas iznīcināšana par piederību pie šīs grupas. - genocīds
+
+Pirms ebreju holokausta tika ierobežotas ebreju tiesības un izveidoti ebreju - geto
+
+Holokausts bija ebreju masveida iznīcināšana nacistiskajā - Vācijā
+
+Holokaustu II pasaules kara laikā īstenoja - nacisti
+
+Holokaustā II pasaules kara laikā tika iznīcināti garīgi slimi cilvēki, ebreji un čigāni
+
+1942. gadā masveida ebreju slepkavošana tika uzsākta - Aušvicē
+
+Lēmums par Vācijas un pārējās Rietumeiropas ebreju pilnīgu iznīcināšanu tika nosaukts par ebreju jautājuma - galīgo atrisinājumu
+
+Necilvēcīga bija arī nacistu izturēšanās pret karagūstekņiem, īpaši pret - padomju karavīriem
+
+Padomju ebreju nacistu acīs bija sliktāki nekā - Rietumeiropas ebreji
+
+Ebreju jautājuma „galīgais atrisinājums” tika pieņemts - Vanzē apspriedē
+
+Izturēšanās pret dažādu valstu karagūstekņiem bija atšķirīga – atkarībā no tautas - rases pilnvērtības
+
+1940. un 1941. gadā Vācijā tika nogalināti garīgi slimi cilvēki. To nosauca par - eitanāziju
+
+
+
+Katiņas slaktiņš notika - 1940. gadā
+
+Katiņas slaktiņš notika pēc - PSRS rīkojuma
+
+Pirmie 1942. gadā poļu karavīru masu kapus uzgāja poļu strādnieki
+
+Padomju sistēma izmantoja izvērstu vergu darba nometņu sistēmu - GULAG.
+
+13. – 14. jūnijā armijas vasaras nometnē Litenē tika arestēti un izsūtīti uz Sibīriju - 500 latviešu virsnieki
+
+Padomju sistēma izmantoja izvērstu vergu darba nometņu sistēmu, kas nežēlīgo apstākļu ziņā daudz neatpalika no nacistu nometnēm.
+
+Katiņas slaktiņš bija masveida nāvessoda izpilde poļu iedzīvotājiem
+
+
+
+1941. gada augustā Minsteres katoļu bīskaps Augusts fon Galens sprediķī publiski iebilda pret - eitanāziju
+
+Jau kara laikā sadarbību ar okupācijas varu Francijā sāka saukt par - kolaboracionismu
+
+Viens no sazvērestības pret Ā. Hitleru galvenajiem organizētājiem bija pulkvedis - K. fon Štaufenbergs
+
+Francijā pretošanās kustības galvenais organizētājs bija ģenerālis - Š. de Golls
+
+Francijā Višī pilsētā atradās nacistu marionešu valdība, kuru vadīja - A. Petēns
+
+Visievērojamākā pretošanās kustība Rietumeiropā izveidojās - Francijā
+
+Valsts līmenī ar Ā. Hitlera valdību sadarbojās Norvēģija un Francija
+
+Augusts fon Galens bija - katoļu bīskaps
+
+Austrumeiropā spēcīgākās pretošanās kustības bija PSRS un Polijā
+
+Nozīmīgākās Vācijas pretošanās kustības pasākums ir 1944. gada 20. jūlija atentāts pret - Ā. Hitleru
+
+Pēc Ā. Hitlera nogalināšanas 1944. gadā tika paredzēts izdarīt - valsts apvērsumu
+
+Katoļu bīskaps Augusts fon Galens nesaudzīgi vērsās pret - nacismu
+
+
+
+"Sacensībā" par atombumbas radīšanu piedalījās Vācija, ASV, Lielbritānija un PSRS
+
+Vācijā II pasaules kara laikā tika izstrādāta raķešu tehnoloģiju programma, ko vadīja V. fon Brauns
+
+„Manhetenas projektā” tika izstrādāta atombumba.
+
+Atombumbas radīšanā panākumus guva arī PSRS.
+
+Britu un amerikāņu sadarbības rezultātā sākās - „Manhetenas projekta” izstrāde
+
+"Manhetenas projekta" zinātniskais vadītājs bija - R. Openheimers
+
+
+
+ASV kara laikā nostiprinājās sociāli ekonomiskās idejas, kas bija paustas jau - Atlantijas hartā
+
+Starptautiskais Valūtas fonds tika nodibināts - 1945. gadā
+
+Kad desmitiem miljonu vīriešu devās karā, daudzās valstīs viņus darbavietās nomainīja sievietes. Izņēmums bija Vācija.
+
+II pasaules kara laikā totalitāro režīmu praksē ieviesās eifēmismi.
+
+II pasaules karš deva smagu triecienu priekšstatiem par cilvēces progresu un attīstību.
+
+Dažādu valstu iedzīvotāju dzīves līmenis kara laikā atšķīrās.
+
+Visās karojošajās valstīs sakāpināti tika uzsvērta patriotisma nozīme.
+
+1944. gadā ASV kūrortpilsētā Bretonvudsā notika - konference
+
+
+1939. gada 31. augustā tika inscenēts poļu uzbrukums Gleivicas raidstacijai
+1939. gada 1. septembrī notika Vācijas uzbrukums Polijai
+1939. gada 17. septembrī notika PSRS armijas iebrukums Polijā
+1939. gada 14. decembrī Padomju Savienība tika izslēgta no Tautu Savienības
+1940. gada 10. jūnijā karā iesaistījās Itālija
+1941. gada 22. jūnijā sākās Vācijas un PSRS karš
+1941. gada 7. decembrī japāņu aviācija iznīcināja ASV jūras spēku bāzi Pērlharborā
+
+1939. gada 3. septembrī Vācijai karu pieteica Francijas un Lielbritānija
+1940. gada 5. martā notika Katiņas slaktiņš
+1940. gada 9. aprīlī Vācija okupēja Dāniju un iebruka Norvēģijā
+1941. gada 7. decembrī notika Japānas uzbrukums ASV jūras karabāzei Pērlhārborai
+1944. gada 20. jūlijā notika atentāts pret Ā. Hitleru
+1945. gada februārī Krimā notika Jaltas konference
+1945. gada 6. augustā ASV nometa atombumbu uz Hirosimu
+
+1939. gada 1. septembrī Vācija iebruka Polijā
+1940. gada 10. jūnijā karā iesaistījās Itālija
+1941. gada 8. septembrī sākās Ļeņingradas blokāde
+1942. gadā Ziemeļāfrikā izcēlās ASV un britu armijas desants ģenerāļa Dvaita Eizenhauera vadībā
+1943. gada jūlijā ASV un britu armijas izcēlās Itālijai piederošajā Sicīlijas salā
+1945. gada 7. maijā tika parakstīts Vācijas kapitulācijas akts
+1945. gada 2. septembrī Japāna kapitulēja
+
+Vinstons Čērčils - https://imgur.com/a/u4xzBuN
+Jozefs Gebelss - https://imgur.com/a/jxdJOXb
+Dvaits Eizenhauers - https://imgur.com/a/KCHJYpW
+
+`;
